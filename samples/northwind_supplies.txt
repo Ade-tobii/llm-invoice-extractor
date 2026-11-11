@@ -1,0 +1,26 @@
+NORTHWIND SUPPLIES LTD
+14 Harbour Road, Unit 3
+Port Elling, PE4 7QT
+VAT Reg: XX-000-1123
+
+                                   INVOICE
+
+Invoice No:   NWS-2026-0412
+Issue date:   3 March 2026
+Payment due:  2 April 2026 (Net 30)
+
+Bill to:
+Example Manufacturing Co.
+Accounts Payable, 200 Mill Lane
+
+| Description                          | Qty | Unit price | Amount  |
+|--------------------------------------|-----|------------|---------|
+| A4 copy paper, 80gsm (box of 5 reams)| 12  | 24.50      | 294.00  |
+| Toner cartridge TN-450               | 4   | 68.75      | 275.00  |
+| Desk organiser, mesh                 | 10  | 12.30      | 123.00  |
+
+                                     Subtotal:   USD 692.00
+                                     VAT 7.5%:   USD  51.90
+                                     TOTAL DUE:  USD 743.90
+
+Please quote the invoice number with your payment.

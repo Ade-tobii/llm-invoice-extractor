@@ -1,0 +1,18 @@
+CRESTLINE FACILITY SERVICES
+Tax invoice
+
+Invoice number: CFS/2026/0097
+Invoice date: 19/01/2026
+Due date: 18/02/2026
+Currency: USD
+
+Customer: Example Manufacturing Co., Plant 2
+
+Item                          Qty    Rate      Line total
+Quarterly HVAC service          1    640.00       640.00
+Air filter replacement         12     35.00       420.00
+Call-out fee                    1    120.00       120.00
+
+Subtotal                                        1,130.00
+Tax 5%                                             56.50
+Invoice total                                   1,186.50

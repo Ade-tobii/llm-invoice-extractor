@@ -1,0 +1,4 @@
+langgraph>=0.2
+pydantic>=2.6
+langchain-google-genai>=2.0
+pytest>=8

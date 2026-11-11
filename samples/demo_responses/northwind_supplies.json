@@ -1,0 +1,20 @@
+{
+  "_comment": "Recorded model output for --demo. Clean extraction: passes on the first attempt.",
+  "attempts": [
+    {
+      "vendor_name": "Northwind Supplies Ltd",
+      "invoice_number": "NWS-2026-0412",
+      "invoice_date": "2026-03-03",
+      "due_date": "2026-04-02",
+      "currency": "USD",
+      "line_items": [
+        {"description": "A4 copy paper, 80gsm (box of 5 reams)", "quantity": "12", "unit_price": "24.50", "amount": "294.00"},
+        {"description": "Toner cartridge TN-450", "quantity": "4", "unit_price": "68.75", "amount": "275.00"},
+        {"description": "Desk organiser, mesh", "quantity": "10", "unit_price": "12.30", "amount": "123.00"}
+      ],
+      "subtotal": "692.00",
+      "tax": "51.90",
+      "total": "743.90"
+    }
+  ]
+}

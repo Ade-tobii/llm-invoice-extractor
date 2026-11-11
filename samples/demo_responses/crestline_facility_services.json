@@ -1,0 +1,35 @@
+{
+  "_comment": "The document itself is wrong: line items sum to 1,180.00 but the printed subtotal is 1,130.00. The retry fixes the date format but correctly refuses to invent a subtotal, so the invoice goes to human review with 'subtotal' flagged.",
+  "attempts": [
+    {
+      "vendor_name": "Crestline Facility Services",
+      "invoice_number": "CFS/2026/0097",
+      "invoice_date": "19/01/2026",
+      "due_date": "18/02/2026",
+      "currency": "USD",
+      "line_items": [
+        {"description": "Quarterly HVAC service", "quantity": "1", "unit_price": "640.00", "amount": "640.00"},
+        {"description": "Air filter replacement", "quantity": "12", "unit_price": "35.00", "amount": "420.00"},
+        {"description": "Call-out fee", "quantity": "1", "unit_price": "120.00", "amount": "120.00"}
+      ],
+      "subtotal": "1,130.00",
+      "tax": "56.50",
+      "total": "1,186.50"
+    },
+    {
+      "vendor_name": "Crestline Facility Services",
+      "invoice_number": "CFS/2026/0097",
+      "invoice_date": "2026-01-19",
+      "due_date": "2026-02-18",
+      "currency": "USD",
+      "line_items": [
+        {"description": "Quarterly HVAC service", "quantity": "1", "unit_price": "640.00", "amount": "640.00"},
+        {"description": "Air filter replacement", "quantity": "12", "unit_price": "35.00", "amount": "420.00"},
+        {"description": "Call-out fee", "quantity": "1", "unit_price": "120.00", "amount": "120.00"}
+      ],
+      "subtotal": "1,130.00",
+      "tax": "56.50",
+      "total": "1,186.50"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+Harbor Light Logistics
+Freight & Warehousing
+Invoice #HLL-88213
+
+Date of invoice: 2026-02-17
+Terms: payable within 14 days (due 2026-03-03)
+Customer: Example Manufacturing Co.
+
+Services rendered
+-----------------
+Line haul, Depot A to Depot B ........ 1 x 950.00   =   950.00
+Fuel surcharge ........................ 1 x 142.50   =   142.50
+Pallet handling ....................... 8 x 18.75    =   150.00
+
+Net amount:                         1,242.50
+Sales tax (10%):                      124.25
+Amount due (USD):                   1,366.75

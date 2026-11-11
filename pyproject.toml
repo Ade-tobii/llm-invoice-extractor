@@ -1,0 +1,27 @@
+[project]
+name = "llm-invoice-extractor"
+version = "0.1.0"
+description = "LLM invoice extraction with deterministic validation, one targeted retry, and human-review routing (LangGraph)."
+readme = "README.md"
+license = { text = "MIT" }
+authors = [{ name = "Adegboyega Precious" }]
+requires-python = ">=3.11"
+dependencies = [
+    "langgraph>=0.2",
+    "pydantic>=2.6",
+    "langchain-google-genai>=2.0",
+]
+
+[project.optional-dependencies]
+dev = ["pytest>=8"]
+
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[tool.setuptools]
+packages = ["invoice_extractor"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+pythonpath = ["."]
